@@ -1,0 +1,6 @@
+#Somando 2 anos a idade
+
+nome = input('Qual é o seu nome? ')
+idade = int(input('Qual é a sua idade? '))
+soma = (idade + 2)
+print(f'Olá {nome}, daqui a 2 anos você terá {soma} anos' )
