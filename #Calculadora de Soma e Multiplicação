@@ -1,0 +1,9 @@
+#Calculadora de Soma e Multiplicação
+
+a = 32
+b = 12
+soma = a + b
+print(f'O resultado da soma é:',{soma})
+
+multiplicacao = a * b
+print(f'O resultado da multiplicação é:', {multiplicacao})
