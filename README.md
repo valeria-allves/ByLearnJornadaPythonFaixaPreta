@@ -7,4 +7,6 @@
 
 ### Meus Códigos realizado durante o Curso de Python Completo - Júnior ao Senior - Bylearn
 - Calculadora de Soma e Multiplicação - (14/05/2021)
+- Número Mágico - (24/05/2021)
+- Usando Laço de Repetição - (26/05/2021)
 - 
