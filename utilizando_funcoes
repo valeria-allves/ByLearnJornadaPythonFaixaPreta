@@ -1,0 +1,18 @@
+## Função de Receber Notas e outra para Calcular Média
+
+def media():
+    nota_1 = float(input('Insira a sua 1º nota: '))
+    nota_2 = float(input('Insira a sua 2º nota: '))
+    return calcular_media(nota_1,nota_2)
+
+def calcular_media(nota_1,nota_2):
+    media = (nota_1 + nota_2) / 2         #Tinha esquecido os parênteses
+    return media
+
+def calcular_aprovacao(media):
+    if (media >= 6):
+        print('Você foi aprovado!')
+    else:
+        print('Você foi reprovado!')
+
+calcular_aprovacao(media())
