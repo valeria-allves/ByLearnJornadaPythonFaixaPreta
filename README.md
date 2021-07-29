@@ -9,4 +9,5 @@
 - Calculadora de Soma e Multiplicação - (14/05/2021)
 - Número Mágico - (24/05/2021)
 - Usando Laço de Repetição - (26/05/2021)
-- 
+- Par ou Ímpar - (05/06/2021)
+- Utilizando funções - (24/07/2021)
