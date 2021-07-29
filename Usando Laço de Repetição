@@ -1,0 +1,8 @@
+aluno = [8.5, 6.6, 7.0, 6.7]
+
+aluno.append(9.0)
+aluno.append(10.0)
+aluno.append(5.5)
+
+for notas in aluno:
+    print('Suas notas são:',notas)
