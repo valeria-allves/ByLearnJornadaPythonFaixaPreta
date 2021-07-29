@@ -1,0 +1,9 @@
+"""O range pode colocar intervalo ou o último valor"""
+"""Ao colocar % 2 == 1, estou colocando que todos os números que divido por 2 ficar de resto 1 (ímpar)"""
+
+for numero in range(20):
+    if numero == 15:
+        break
+    if(numero % 2 == 1): 
+        continue
+    print(numero)
