@@ -1,0 +1,12 @@
+def main ():
+    Numero_Escolhido = 3
+    Numero_Magico = int(input('Valor Escolhido pelo Mágio: '))
+
+    if Numero_Magico < Numero_Escolhido :
+        print('Aumente o valor do chute')
+    elif Numero_Magico > Numero_Escolhido:
+        print('Diminua o valor do chute')
+    else:
+        print('Você acertou!')
+
+main()
